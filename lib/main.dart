@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: pages,
         ),
         bottomNavigationBar: Container(
-          margin: EdgeInsets.only(bottom: 20),
+          margin: EdgeInsets.only(bottom: 2),
           child: new TabBar(
             tabs: [
               Tab(
